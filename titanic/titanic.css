@@ -1,0 +1,41 @@
+section{
+
+	display: inline-flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	font-size: 18px;
+}
+
+article{
+	border: 1px solid red;
+	margin: 1%;
+	padding: 1%;
+	width: 10%;
+}
+
+h1{ font-size:80px;
+	text-align: center;
+	color: blue;
+}
+
+h2{font-size: 50px;
+	
+	color: darkblue;
+	}
+
+p{font-size: 20px}
+
+.foto{
+
+	margin: 0 auto;
+	display: flex;
+	justify-content: space-evenly;
+
+}
+
+.passeggeri{ text-decoration: none; 
+
+	font-size: 30px;
+	margin-left: 35%;
+
+}
